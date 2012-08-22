@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Menu Tamer
-Version: 0.1
+Version: 1.0
 Description: Make your nav menus easier to work with
 Plugin URI: http://github.com/avendi-media/menu-tamer
 Author: Avendi Media
