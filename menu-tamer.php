@@ -8,6 +8,7 @@ Plugin URI: http://github.com/avendi-media/menu-tamer
 Author: Avendi Media
 Author URI: http://www.avendimedia.com/
 License: GPLv2 or later
+Text Domain: menu-tamer
 */
 /*
 Copyright (C) 2012  Avendi Media, Inc.
