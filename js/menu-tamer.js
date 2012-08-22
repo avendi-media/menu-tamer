@@ -1,3 +1,5 @@
-(function($,menu){
-	
-})(jQuery, wpNavMenu);
+(function($,menu, l10n){
+	var menuTamer = {
+		
+	}
+})(jQuery, wpNavMenu, MenuTamerL10n);
