@@ -17,7 +17,7 @@ class MenuTamer {
 	}
 
 	public static function nav_edit_walker() {
-		require dirname( __FILE__ ) . '/MenuTamerWalkerClass.php';
+		require_once dirname( __FILE__ ) . '/MenuTamerWalkerClass.php';
 		return 'Walker_MenuTamer_Nav_Menu_Edit';
 	}
 

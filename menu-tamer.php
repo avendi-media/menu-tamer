@@ -30,7 +30,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 if ( is_admin() ) {
 	define( 'MT_PLUGIN_BASENAME', plugin_basename( __FILE__ ) );
-	require dirname( __FILE__ ) . '/MenuTamerClass.php';
+	require_once dirname( __FILE__ ) . '/MenuTamerClass.php';
 	add_filter( 'wp_edit_nav_menu_walker', array( 'MenuTamer', 'nav_edit_walker' ) );
 	add_action( 'load-nav-menus.php', array( 'MenuTamer', 'init' ) );
 }
