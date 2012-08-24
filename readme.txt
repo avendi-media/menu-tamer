@@ -25,6 +25,11 @@ None...
 
 YET!
 
+== Screenshots ==
+
+1. An unruly menu.
+2. The same menu, tamed.
+
 == Changelog ==
 
 = 1.0 =
