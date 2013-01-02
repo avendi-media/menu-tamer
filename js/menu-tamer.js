@@ -4,7 +4,7 @@
 		init : function () {
 			this.settings.init();
 			this.setUpToggleElements();
-			$( '#menu-to-edit' ).bind( 'sortstop', menuTamer.refresh );
+			$( '#wpbody' ).on( 'sortstop', '#menu-to-edit', menuTamer.refresh );
 		},
 
 		settings : {
