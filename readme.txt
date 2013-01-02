@@ -1,9 +1,9 @@
 === Menu Tamer ===
 Contributors: JohnPBloch, avendimedia
 Tags: menus, nav menus, menu, nav menu
-Requires at least: 3.4.1
-Tested up to: 3.4.1
-Stable tag: 1.0
+Requires at least: 3.4.2
+Tested up to: 3.5
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,10 +32,13 @@ YET!
 
 == Changelog ==
 
+= 1.0.1 =
+* Fixed a bug caused by script dependency issues
+
 = 1.0 =
 * Initial release
 
 == Upgrade Notice ==
 
-= 1.0 =
-How are you even seeing this?
+= 1.0.1 =
+This upgrade fixes a bug in this program that prevents scripts from loading on the menus page in WordPress 3.5

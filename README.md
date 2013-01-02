@@ -16,6 +16,9 @@ Install via the WordPress plugin installer and activate. You're done.
 Changelog
 ---
 
+- 1.0.1
+ - Fixed a script dependency bug in 3.5
+
 - 1.0
  - Initial release
 
